@@ -13,10 +13,12 @@ class Movie extends Component {
         }}).then( result => {
             const movies = result.data.movies;
             const updatedMovies = movies.map( movie => {
+                
                 return {
                     ...movie
                 }
             });
+            console.log(updatedMovies);
             this.setState({ movies : updatedMovies});
         });
     }
@@ -24,6 +26,7 @@ class Movie extends Component {
         const movies = this.state.movies.map( movie => {
             return <MovieElement key={ movie.id } title={ movie.title } overview={ movie.overview } poster={ movie.poster } />
         });
+        // console.log(movies);
         return (
             <div className="App">
                 <nav className="navbar">
