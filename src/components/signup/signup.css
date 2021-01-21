@@ -53,9 +53,16 @@ input, select {
   }
 
   .error {
-    color:#db2269;
+    color: black;
     font-size: 0.825em;
     display: relative;
   }
   
+  h6{
+    font-size: 13px;
+  }
+  .term{
+    color: rgb(145, 18, 18);
+  }
+
   

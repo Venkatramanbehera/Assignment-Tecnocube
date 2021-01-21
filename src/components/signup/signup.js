@@ -94,6 +94,7 @@ class Signup extends Component {
                         errors.password.length > 0 && <span className='error'>{errors.password}</span>
                     }
                     <button type="submit">Claim Your Free Trail</button>
+                    <h6>By Clicking the button , you are agreeing to our <p className="term">Tearms and Services</p></h6>
                 </form>
             </div>
         )

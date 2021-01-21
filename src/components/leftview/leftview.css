@@ -10,3 +10,17 @@
     color: white;
     padding: 0 3% 3% 3%;
 }
+
+@media only screen and (max-width: 500px) {
+    .Main{
+        font-size: 35px;
+        padding: 1% 1% 0 1%;
+    }
+}
+
+@media only screen and (max-width: 900px) {
+    .Main{
+        font-size: 45px;
+        padding: 1% 1% 0 1%;
+    }
+}
