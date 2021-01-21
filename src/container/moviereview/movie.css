@@ -1,16 +1,12 @@
-/* *{
-    background-color: white;
-} */
 .Movies {
     display: flex;
     justify-content: center;
     flex-flow: row wrap;
     width: 80%;
     margin: auto;
+    /* background-color: white; */
 }
-.navbar {
-   /* position: fixed; */
-}
+
 .navbar ol{
     list-style: none;
     display: flex;
@@ -32,4 +28,24 @@ hr{
     border: none;
 }
 
-
+@media only screen and (max-width: 430px) {
+    .SerchBar {
+        padding-left: 1px;
+        width: 500px;
+    }
+  }
+  @media only screen and (max-width: 800px) {
+    .SerchBar {
+        padding-left: 25%;
+    }
+  }
+  @media only screen and (max-width: 1000px) {
+    .SerchBar {
+        padding-left: 25%;
+    }
+  }
+  @media only screen and (max-width: 1200px) {
+    .SerchBar {
+        padding-left: 25%;
+    }
+  }

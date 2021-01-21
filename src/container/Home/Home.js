@@ -16,8 +16,10 @@ class Home extends Component {
                     </ul>
                     </nav>
                 </header>
-                <Route path="/" exact component={ SignUp }/>
-                <Route path="/movie" exact component={ Movies }/>
+                <div className="route">
+                    <Route path="/" exact component={ SignUp }/>
+                    <Route path="/movie" exact component={ Movies }/>
+                </div>
             </div>
         );
     }
