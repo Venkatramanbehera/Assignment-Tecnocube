@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Assignment-Tecnocube/static/css/main.77fe269b.chunk.css",
+    "main.js": "/Assignment-Tecnocube/static/js/main.0026775b.chunk.js",
+    "main.js.map": "/Assignment-Tecnocube/static/js/main.0026775b.chunk.js.map",
+    "runtime-main.js": "/Assignment-Tecnocube/static/js/runtime-main.74a6712c.js",
+    "runtime-main.js.map": "/Assignment-Tecnocube/static/js/runtime-main.74a6712c.js.map",
+    "static/js/2.4167bbd9.chunk.js": "/Assignment-Tecnocube/static/js/2.4167bbd9.chunk.js",
+    "static/js/2.4167bbd9.chunk.js.map": "/Assignment-Tecnocube/static/js/2.4167bbd9.chunk.js.map",
+    "static/js/3.57b9268c.chunk.js": "/Assignment-Tecnocube/static/js/3.57b9268c.chunk.js",
+    "static/js/3.57b9268c.chunk.js.map": "/Assignment-Tecnocube/static/js/3.57b9268c.chunk.js.map",
+    "index.html": "/Assignment-Tecnocube/index.html",
+    "static/css/main.77fe269b.chunk.css.map": "/Assignment-Tecnocube/static/css/main.77fe269b.chunk.css.map",
+    "static/js/2.4167bbd9.chunk.js.LICENSE.txt": "/Assignment-Tecnocube/static/js/2.4167bbd9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.74a6712c.js",
+    "static/js/2.4167bbd9.chunk.js",
+    "static/css/main.77fe269b.chunk.css",
+    "static/js/main.0026775b.chunk.js"
+  ]
+}
